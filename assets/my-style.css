@@ -1,4 +1,10 @@
 .text-wrap {
-    float: left; /* Make the container and image float to the left */
+    width: 50%; /* Adjust the width as needed */
+    float: left;
     margin-right: 20px; /* Add space between the image and text */
+}
+
+.float-left {
+    float: left;
+    margin-right: 10px; /* Adjust the margin as needed */
 }
