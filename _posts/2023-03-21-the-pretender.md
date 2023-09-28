@@ -5,7 +5,7 @@ date: 2023-09-25 21:04:00 +0600
 categories: jekyll
 ---
 
-![Convocation Photo](./images/convocation.jpg)
+![Convocation Photo](./convocation.jpg)
 
 [The photo is just me posing after the convocation event, nothing more.]
 To my understanding, many acknowledge me as someone smart, talented and academically gifted. This post is to say, it's all a facade. More accurately, while those things are not entirely false, I doubt that I deserve the highlights it gets me. The story behind is as follows. (Long post warning. TL;DR: Imposter Syndrome)
