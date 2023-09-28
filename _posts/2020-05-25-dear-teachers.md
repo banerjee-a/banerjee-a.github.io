@@ -2,7 +2,7 @@
 layout: post
 title: "Dear Teachers"
 date: 2020-05-25 19:34:00 +0600
-categories: jekyll
+categories: post
 ---
 
 I'm very content with my student life because of all the wonderful teachers I've had.

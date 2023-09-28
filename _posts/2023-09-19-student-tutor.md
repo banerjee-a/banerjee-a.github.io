@@ -2,7 +2,7 @@
 layout: post
 title: "Student Tutor"
 date: 2023-09-19 22:00:00 +0600
-categories: jekyll
+categories: post
 ---
 
 One of the most significant parts of my undergraduate life was the time I served as a student tutor (st). For those unfamiliar, it's basically a part time position, similar to undergraduate teaching assistants, except for being assigned to a particular teacher, student tutors are assigned to groups/sections of students.

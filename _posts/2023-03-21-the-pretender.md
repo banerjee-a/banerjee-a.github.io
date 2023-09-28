@@ -2,7 +2,7 @@
 layout: post
 title: "The Pretender"
 date: 2023-03-22 17:24:00 +0600
-categories: jekyll
+categories: post
 ---
 
 ![Convocation Photo](/images/convocation.jpg){:style="display:block; margin-left:auto; margin-right:auto"}

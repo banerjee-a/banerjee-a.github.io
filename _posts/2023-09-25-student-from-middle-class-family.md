@@ -2,7 +2,7 @@
 layout: post
 title: "Student From Middle Class Family"
 date: 2023-09-25 21:04:00 +0600
-categories: jekyll
+categories: post
 ---
 
 In response to [this facebook post][fb-link].

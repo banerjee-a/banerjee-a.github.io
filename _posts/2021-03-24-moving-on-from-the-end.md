@@ -2,7 +2,7 @@
 layout: post
 title: "Moving on from The End"
 date: 2021-03-24 17:24:00 +0600
-categories: jekyll
+categories: post
 ---
 
 *Last time I wrote one of these, I was at the end of my first year at college. ([Over here][the-end])*
