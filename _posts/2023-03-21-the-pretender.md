@@ -6,10 +6,10 @@ categories: jekyll
 ---
 
 ![Convocation Photo](/images/convocation.jpg)
-<div class="text-wrap">
-    <p>[The photo is just me posing after the convocation event, nothing more.]</p>
-    <p>To my understanding, many acknowledge me as someone smart, talented and academically gifted. This post is to say, it's all a facade. More accurately, while those things are not entirely false, I doubt that I deserve the highlights it gets me. The story behind is as follows. (Long post warning. TL;DR: Imposter Syndrome)</p>
-</div>
+
+[The photo is just me posing after the convocation event, nothing more.]
+To my understanding, many acknowledge me as someone smart, talented and academically gifted. This post is to say, it's all a facade. More accurately, while those things are not entirely false, I doubt that I deserve the highlights it gets me. The story behind is as follows. (Long post warning. TL;DR: Imposter Syndrome)
+
 
 I am an extroverted person, but I didn't know how to talk to people because almost everyone in my household is an introvert. Studying alone doesn't work for me. I get anxious and talk to myself too much. I am lucky that there are youtube, anime and tv shows that I can go to as a conversation supplement. In school, I was average, people knew me as the nice kid, who followed all the rules, and knew more about the internet than the average kid. In class 9, something happened and I needed to prove myself as better. I did do better. It was to show off to someone that I have the potential, but by the time the results came, it didn't matter. What that did, however, prove to me that I didn't have a goal for studying. I just do it because of "the rules". During a similar time, I started experimenting with blender and illustrator, while also working with some "super-friends" on a comic and a magazine; I felt fulfilled and inspired. I made a 1 to 1 model of the Monipur School boys campus, where every brick, railing, and windows were accurate. What complicates all of this is that one time that I wanted to show off, and did get better scores, while I didn't get to show off to the person, it did put me in a better place in school, and those inspirations would not have come if not for the trying. What I took from all this is that, I thrive to be among real people, I am inspired when I can communicate, not just some characters on screen. And to get to that point, to meet more real people, I needed to be fake, I needed to "appear good", for not the results, but to get people's attention, and meet people.
 
