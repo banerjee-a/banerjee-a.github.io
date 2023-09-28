@@ -8,7 +8,18 @@ categories: jekyll
 *Last time I wrote one of these, I was at the end of my first year at college. ([Over here][the-end])*
 
 ```
-This is by no means a continuation of that write-up, these are not even made for the same purpose – however, I really feel like I need to get these words out of my system as the first year of my university life comes to an end. The other one was indeed written for appreciation, and although that also had some selfish bits inside, this time, it’s all about me. Now, I guess it’s obvious by now, but dear reader, if you have something better to do right now than reading this, go do that. This will definitely waste a big chunk of your time of the day, if you wish to read through the end.
+This is by no means a continuation of that write-up, 
+these are not even made for the same purpose – however, 
+I really feel like I need to get these words out of my system 
+as the first year of my university life comes to an end. 
+The other one was indeed written for appreciation, 
+and although that also had some selfish bits inside, 
+this time, it’s all about me. 
+Now, I guess it’s obvious by now, but dear reader, 
+if you have something better to do right now than 
+reading this, go do that. This will definitely waste 
+a big chunk of your time of the day, 
+if you wish to read through the end.
 ```
 
 On 13/01/2018 – I attended my first lecture in BRAC University, but the story of university starts much before. In fact, as with most of us from the country, the university stage of life triggers right after the Higher Secondary results. Nothing out of the ordinary here - the results came in, proved that I wasn’t going to be applying to any public engineering universities, and also gave me a glimpse of what the next couple of months are about to bring. Soon after, it was admission season. These times were probably some of the busiest times of my life. One week I’m in this corner of the country, the next week I was on the other. But as I had to move on to the next area, I was confirming my failures on the previous ones. I’m not going to lie; I enjoyed the country-wide tour of failure most often than never. Somewhere along this trip, I ran out of options. And it was right then, I got the confirmation on Rajshahi University (RU). Without wasting any time, my father hurried me over to get me admitted. It was weird though. Before these university tours, my parents would always keep complaining about how I need to improve my academics, whereas at the time I was decent, albeit not the best of myself. Now that it was so apparent that I was doing bad, they’re complains stopped. I am not grown up enough to know what that means. Did they finally accept me for who I am and what I do? Or did they just give up on me? Or are they too frustrated to even complain? It could be something else entirely. But with this the public university with the largest land-area in the country - had accepted me. As the admission was completed, I was notified of being in the Applied Mathematics department from my subject choice list.
@@ -73,4 +84,4 @@ Dear reader, congratulations! You have successfully reached the end of my pointl
 
 > The most notable and repeated lesson I learned was about moving on and moving forward. As long as I can still look forward, there is always a way to leap forward, there is no absolute end.
 
-[the-end]: /2017-03-31-the-end.md
+[the-end]: /jekyll/2017/03/31/the-end.html
