@@ -1,11 +1,10 @@
 .text-wrap {
-    width: 70%; /* Adjust the width as needed */
+    width: 50%; /* Adjust the width as needed */
     float: left;
     margin-right: 20px; /* Add space between the image and text */
 }
 
 .float-left {
-    width: 30%;
     float: left;
     margin-right: 10px; /* Adjust the margin as needed */
 }
