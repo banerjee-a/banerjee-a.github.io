@@ -73,4 +73,4 @@ Dear reader, congratulations! You have successfully reached the end of my pointl
 
 > The most notable and repeated lesson I learned was about moving on and moving forward. As long as I can still look forward, there is always a way to leap forward, there is no absolute end.
 
-[the-end]: ./2017-03-31-the-end.md
+[the-end]: /2017-03-31-the-end.md
