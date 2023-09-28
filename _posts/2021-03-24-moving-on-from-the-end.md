@@ -5,9 +5,9 @@ date: 2021-03-24 17:24:00 +0600
 categories: jekyll
 ---
 
+*Last time I wrote one of these, I was at the end of my first year at college. ([Over here][the-end])*
+
 ```
-Last time I wrote one of these, I was at the end of my first year at college. (Over here: https://www.facebook.com/notes/avinandan-banerjee/the-end/1253258368091086/)
- 
 This is by no means a continuation of that write-up, these are not even made for the same purpose – however, I really feel like I need to get these words out of my system as the first year of my university life comes to an end. The other one was indeed written for appreciation, and although that also had some selfish bits inside, this time, it’s all about me. Now, I guess it’s obvious by now, but dear reader, if you have something better to do right now than reading this, go do that. This will definitely waste a big chunk of your time of the day, if you wish to read through the end.
 ```
 
@@ -73,3 +73,4 @@ Dear reader, congratulations! You have successfully reached the end of my pointl
 
 > The most notable and repeated lesson I learned was about moving on and moving forward. As long as I can still look forward, there is always a way to leap forward, there is no absolute end.
 
+[the-end]: ./2017-03-31-the-end.md
