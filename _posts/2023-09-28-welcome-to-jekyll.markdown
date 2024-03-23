@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hidden
 title:  "Welcome to Jekyll!"
 date:   2023-09-28 08:16:31 +0600
 categories: post jekyll update
