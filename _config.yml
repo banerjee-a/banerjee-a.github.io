@@ -32,6 +32,10 @@ github_username: banerjee-a
 linkedin_username: banerjee-avinandan
 facebook_username: 30111999avi
 
+header_pages:
+  - about.markdown
+  - _mypages/post-list.html
+
 # Build settings
 theme: minima
 plugins:
